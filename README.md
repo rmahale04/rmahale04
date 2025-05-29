@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 - 🐾 Pet Adoption System – Java Web App for adopting and managing pets
 - 💇‍♀️ Beauty Salon Website – Online appointment system with user/admin features
-- 🍽️ Let’s Cook –  A simple front-end recipe website made with HTML and CSS
+- 🍽️ Don't Yuck My Yummm!!! –  A simple front-end recipe website made with HTML and CSS
 ---
 <!--
 📈 **GitHub Stats**:
