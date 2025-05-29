@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🐾 Pet Adoption System – Java Web App for adopting and managing pets
 - 🩸 [Blood Bank Management System](https://github.com/rmahale04/project3-blood-bank-management-system) - Blood donation system featuring donor/recipient management and admin dashboard.
 - 💇‍♀️ [Beauty Salon Website](https://github.com/rmahale04/project2-beauty-salon-website) – Online appointment system with user/admin features
-- 🍽️ [Don't Yuck My Yummm!!!](https://github.com/rmahale04/dont-yuck-my-yummm) – A simple front-end recipe website made with HTML and CSS
+- 🍽️ [Simple Recipes Page](https://github.com/rmahale04/dont-yuck-my-yummm) – A simple front-end recipe website made with HTML and CSS
 ---
 <!--
 📈 **GitHub Stats**:
